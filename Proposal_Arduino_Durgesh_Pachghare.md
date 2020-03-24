@@ -6,7 +6,7 @@
 
   
 
-Examples listed in Arduino libraries are the biggest source of learning for any newcomers to professionals. Some libraries lack examples that can make users understand the capabilities of the library.
+Examples listed in Arduino libraries are the biggest source of learning for begineers to professionals. Some libraries lack examples that can make users understand the capabilities of the library.
 This project aims at three things:
 
  1. Writing more useful and practical examples wherever needed for Arduino libraries demonstrating use of of all the functions/features of the library.
@@ -16,16 +16,17 @@ This project aims at three things:
 
 ## Technical Details
 
-After reviewing all the Libraries listed under Arduino-Libraries, I have listed down libraries which needs examples or potential projects that can be done and documented on Project Hub. Also some libraries needs some enhancements, like adding new features or solving few bugs.
+After reviewing all the Libraries listed under Arduino-Libraries, I have listed down libraries which needs examples or potential projects that can be done and documented on Project Hub. Also some libraries need some enhancements, like adding new features or solving few bugs. These details are given as follows:
 
 Examples having tag [ Project ] are projects that will get implemented and documented on Project Hub.
 
 #### [Keyboard](https://github.com/arduino-libraries/Keyboard)
 
 This library allows an Arduino board with USB capabilities to act as a Keyboard.
+ 
 - Examples Already Present:
   - Serial.ino - Reads a byte from the serial port, sends a keystroke back
-- Examples Can be added
+- Examples Can be added:
   - KeyPattern.ino - Send keystrokes from a pattern of keys specified in the program
   - ProgramKeys.ino - Read a pattern of keys (Printable) from Serial monitor and program Arduino to send that pattern
   - Shutdown.ino - Program containing keystrokes to shut down a computer
@@ -62,6 +63,7 @@ Process JSON in your Arduino sketches.
 #### [Servo](https://github.com/arduino-libraries/Servo)
 
 This library allows an Arduino board to control RC (hobby) servo motors.
+
 - Already present:
   - Knob.ino - Move the servo on the input of Analog Potentiometer
   - Sweep.ino - Move servo from 0 to 180 and 180 to 0
@@ -163,7 +165,8 @@ The RTC library enables an Arduino Zero or MKR1000 board to take control of the 
   - [ Project ] CoronavirusWashHandAlert - A periodic alert which plays an audio asking users to wash hands to avoid getting infected by corona virus. Alert is disabled by a clap or a button. 
 
 #### [AudioZero](https://github.com/arduino-libraries/AudioZero)
-The AudioZero library enables an Arduino SAMD Board to play back .wav files from a storage device
+The AudioZero library enables an Arduino SAMD Board to play back .wav files from a storage device.
+
 - Examples already present:
   - SimpleAudioPlayerZero.ino -  Demonstrates the use of the Audio library for the Arduino Zero
 - Examples can be added:
