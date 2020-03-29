@@ -291,7 +291,7 @@ The Scheduler library enables the Arduino Due, Zero, and MKR1000 to run multiple
 ### **Community Bonding Period**
 
   1. Purchase all the required hardware required from Arduin store.
-  2. Communicate with mentors, get familier with the expectations, work culture, standards and read documentation for contributing.
+  2. Communicate with mentors, get familier with the expectations, work culture, standards and read conttribution guidelines.
   3. Read datasheets of sensors and boards, learn and understand more about the libraries.  Get everything ready to start coding.
   4. Create a detailed plan of the project, more detailed design by communicating with mentors and document everything.
   5. Getting ready for documenting everything, create templates and schedule for documentation.
@@ -452,8 +452,8 @@ Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjEwMzY1ODAsMTE3NDcwNzc4NiwtNj
-Y0NzExNjE2LC0yMTIzMjIyMDYyLDY1NTI3MDc2NCwtMTQzMTg0
-ODM3OCwxMDA1MzcwMzQ2LC01MjY1Nzc3NDEsLTEwMTI3Mjg1NT
-FdfQ==
+eyJoaXN0b3J5IjpbNTcwODM0NTI4LC0yMDIxMDM2NTgwLDExNz
+Q3MDc3ODYsLTY2NDcxMTYxNiwtMjEyMzIyMjA2Miw2NTUyNzA3
+NjQsLTE0MzE4NDgzNzgsMTAwNTM3MDM0NiwtNTI2NTc3NzQxLC
+0xMDEyNzI4NTUxXX0=
 -->
