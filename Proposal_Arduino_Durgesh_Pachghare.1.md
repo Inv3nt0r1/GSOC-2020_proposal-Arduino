@@ -287,14 +287,12 @@ The Scheduler library enables the Arduino Due, Zero, and MKR1000 to run multiple
 
 ### **Community Bonding Period**
 
-  1. Purchase all the required hardware required from Arduino store.
-  2. Communicate with mentors, get familier with the expectations, work culture and standards.
-  3. Create a detailed plan of the project, more detailed design by communicating with mentors and document everything.
-  4. Getting ready for documenting everything, create templates and schedule for documentation.
-  5. Create a proper testing plan for testing the developed code. I believe in extensive testing and making the code perfect before deploying. Every code will get deployed only after testing it on hardware with all possible test cases. 
-  6. Read datasheets of sensors and boards, learn and understand more about the libraries. Get everything ready to start coding.
-  7. Most importantly, Get involved in the community, communicate often, become familier with everyone and become the part of this great family.
-
+1.  Purchase all the required hardware required from the Arduino store.
+2. Communicate with mentors, get familiar with the expectations, work culture and standards. Plan platform and schedule for communication and submission.
+3. Keeping my primary plan in mind, I will communicate with my mentors to create a more refined plan, finalize the examples list.
+4. Create a testing and documentation plan, templates for testing details and documentation for submission.
+5. Read datasheets of sensors and boards, learn and understand more about the libraries. Get everything ready to start coding.
+6. Most importantly, Get involved in the community, communicate often, become familiar with everyone and become a part of this great family.
 
 ### **Phase 1**
 
@@ -449,9 +447,10 @@ Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzNzM2NDk4LDg5MDY3NTE1LC00NTY2ND
-c2NzMsMTAxNjQ1MTQ2OSwtMzIzMDUzMjQwLC0xMzY3ODM2NzI2
-LC0yMDIxMDM2NTgwLDExNzQ3MDc3ODYsLTY2NDcxMTYxNiwtMj
-EyMzIyMjA2Miw2NTUyNzA3NjQsLTE0MzE4NDgzNzgsMTAwNTM3
-MDM0NiwtNTI2NTc3NzQxLC0xMDEyNzI4NTUxXX0=
+eyJoaXN0b3J5IjpbMTkxODk1MTY2NywzODM3MzY0OTgsODkwNj
+c1MTUsLTQ1NjY0NzY3MywxMDE2NDUxNDY5LC0zMjMwNTMyNDAs
+LTEzNjc4MzY3MjYsLTIwMjEwMzY1ODAsMTE3NDcwNzc4NiwtNj
+Y0NzExNjE2LC0yMTIzMjIyMDYyLDY1NTI3MDc2NCwtMTQzMTg0
+ODM3OCwxMDA1MzcwMzQ2LC01MjY1Nzc3NDEsLTEwMTI3Mjg1NT
+FdfQ==
 -->
