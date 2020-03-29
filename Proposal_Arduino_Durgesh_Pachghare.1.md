@@ -281,9 +281,9 @@ The Scheduler library enables the Arduino Due, Zero, and MKR1000 to run multiple
 
 ### **Before Community Bonding Period**
 
-1. Gather more information about what can be improved in the libraries, their examples, any bugs that can be solved, any features that I can add to the libraries, etc.
-2. Understand more about libraries, and find any bugs present or any enhancement that can be done to library.
-3. Understand the electronics characteristics of newer Arduino Boards. It's much easier to work with any board and components once you enough knowledge about its electronics.  
+1.  Gather detailed insights of all 90 libraries and list down better examples that can be added to the libraries. Make changes in the list alongside.
+2. Fix issues and create necessary pull requests. Read contribution guidelines and get familiar with the standards and style-guide.
+3. Understand the electronics characteristics of newer Arduino Boards. It's much easier to work with any board and components once you have enough knowledge about its electronics.
 
 ### **Community Bonding Period**
 
@@ -449,9 +449,9 @@ Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjQ1MTQ2OSwtMzIzMDUzMjQwLC0xMz
-Y3ODM2NzI2LC0yMDIxMDM2NTgwLDExNzQ3MDc3ODYsLTY2NDcx
-MTYxNiwtMjEyMzIyMjA2Miw2NTUyNzA3NjQsLTE0MzE4NDgzNz
-gsMTAwNTM3MDM0NiwtNTI2NTc3NzQxLC0xMDEyNzI4NTUxXX0=
-
+eyJoaXN0b3J5IjpbLTQ1NjY0NzY3MywxMDE2NDUxNDY5LC0zMj
+MwNTMyNDAsLTEzNjc4MzY3MjYsLTIwMjEwMzY1ODAsMTE3NDcw
+Nzc4NiwtNjY0NzExNjE2LC0yMTIzMjIyMDYyLDY1NTI3MDc2NC
+wtMTQzMTg0ODM3OCwxMDA1MzcwMzQ2LC01MjY1Nzc3NDEsLTEw
+MTI3Mjg1NTFdfQ==
 -->
