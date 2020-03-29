@@ -25,6 +25,7 @@ These details are given as follows:
 
 **Note:** Examples having [ Project ] tag are projects that will get implemented on hardware and documented on Project Hub.
 
+
 #### [Keyboard](https://github.com/arduino-libraries/Keyboard)
 
 This library allows an Arduino board with USB capabilities to act as a Keyboard.
@@ -451,7 +452,8 @@ Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDcwNzc4NiwtNjY0NzExNjE2LC0yMT
-IzMjIyMDYyLDY1NTI3MDc2NCwtMTQzMTg0ODM3OCwxMDA1Mzcw
-MzQ2LC01MjY1Nzc3NDEsLTEwMTI3Mjg1NTFdfQ==
+eyJoaXN0b3J5IjpbLTIwMjEwMzY1ODAsMTE3NDcwNzc4NiwtNj
+Y0NzExNjE2LC0yMTIzMjIyMDYyLDY1NTI3MDc2NCwtMTQzMTg0
+ODM3OCwxMDA1MzcwMzQ2LC01MjY1Nzc3NDEsLTEwMTI3Mjg1NT
+FdfQ==
 -->
