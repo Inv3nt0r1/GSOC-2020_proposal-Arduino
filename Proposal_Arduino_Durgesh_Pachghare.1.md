@@ -17,14 +17,13 @@
 ## Technical Details
 
 
-
-* After reviewing all the Libraries listed under Arduino-Libraries, I have listed down libraries that need examples or potential projects that can be done and documented on Project Hub and also enhancements in libraries like adding new features or solving a few bugs.
-* **However, the examples and projects that I have listed below are just my understanding of the need of examples in the libraries. I will be happy to discuss with mentors to generate a different set of examples even on different libraries if needed.**
+*  After reviewing all the Libraries listed under Arduino-Libraries, I have listed down libraries that need examples or potential projects that can be done and documented on Project Hub and also enhancements in libraries like adding new features or solving a few bugs.
+* **Note:** However, the examples and projects that I have listed below are just my understanding of the need of examples in the libraries. I will be happy to discuss with mentors to list down a different set of examples or edit this existing list even on different libraries if needed.
 
 These details are given as follows:
 
 
-Examples having tag [ Project ] are projects that will get implemented and documented on Project Hub.
+**Note:** Examples having [ Project ] tag are projects that will get implemented on hardware and documented on Project Hub.
 
 #### [Keyboard](https://github.com/arduino-libraries/Keyboard)
 
@@ -452,7 +451,7 @@ Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDcxMTYxNiwtMjEyMzIyMjA2Miw2NT
-UyNzA3NjQsLTE0MzE4NDgzNzgsMTAwNTM3MDM0NiwtNTI2NTc3
-NzQxLC0xMDEyNzI4NTUxXX0=
+eyJoaXN0b3J5IjpbMTE3NDcwNzc4NiwtNjY0NzExNjE2LC0yMT
+IzMjIyMDYyLDY1NTI3MDc2NCwtMTQzMTg0ODM3OCwxMDA1Mzcw
+MzQ2LC01MjY1Nzc3NDEsLTEwMTI3Mjg1NTFdfQ==
 -->
