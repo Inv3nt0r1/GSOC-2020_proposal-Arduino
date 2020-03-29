@@ -7,14 +7,11 @@
 
 ## Abstract
 
-  
+ Examples listed in Arduino libraries are the biggest source of learning for beginners to professionals. Examples are the first face of any library that everyone looks for. Most people use implementation of function as stated in examples. Having a rich set of examples that are easy to understand and that shows its capabilities is really important. Some libraries lack such examples. Thus, I have taken this project to make my contribution in writing examples for official libraries under GSOC 2020. This project aims at following things:
 
-Examples listed in Arduino libraries are the biggest source of learning for beginners to professionals. Examples are the first face of any library that everyone look for. Some libraries lack examples that can make users understand the capabilities of the library.
-This project aims at three things:
-
- 1. Writing more useful and practical examples wherever needed for Arduino libraries demonstrating the use of all the functions/features of the library.
- 2. Most of the projects contain the integration of multiple components like sensors and actuators. Thus, this project aims at writing examples that contain simple applications based on the integration of libraries, making hardware prototypes and documenting them in [Project Hub](https://create.arduino.cc/projecthub).
- 3. Add some enhancements / solve bugs in the libraries. 
+1.  Writing more useful and practical examples wherever needed for Arduino libraries demonstrating the use of all the functions/features of the library.
+2. Most of the projects contain the integration of multiple components like sensors and actuators. Thus, this project aims at writing examples that contain simple applications based on the integration of libraries, making hardware prototypes and documenting them in [Project Hub](https://create.arduino.cc/projecthub) that can really inspire developers to create and innovate.
+3. Add some enhancements / solve bugs in the libraries.
 
 
 ## Technical Details
@@ -455,6 +452,6 @@ Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTM3MDM0NiwtNTI2NTc3NzQxLC0xMD
-EyNzI4NTUxXX0=
+eyJoaXN0b3J5IjpbLTE0MzE4NDgzNzgsMTAwNTM3MDM0NiwtNT
+I2NTc3NzQxLC0xMDEyNzI4NTUxXX0=
 -->
