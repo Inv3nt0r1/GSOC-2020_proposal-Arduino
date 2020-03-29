@@ -9,7 +9,7 @@
 
   
 
-Examples listed in Arduino libraries are the biggest source of learning for beginners to professionals.  Some libraries lack examples that can make users understand the capabilities of the library.
+Examples listed in Arduino libraries are the biggest source of learning for beginners to professionals. Examples are the first face of any library that everyone look for. Some libraries lack examples that can make users understand the capabilities of the library.
 This project aims at three things:
 
  1. Writing more useful and practical examples wherever needed for Arduino libraries demonstrating the use of all the functions/features of the library.
@@ -455,5 +455,6 @@ Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjU3Nzc0MSwtMTAxMjcyODU1MV19
+eyJoaXN0b3J5IjpbMTAwNTM3MDM0NiwtNTI2NTc3NzQxLC0xMD
+EyNzI4NTUxXX0=
 -->
