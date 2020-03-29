@@ -46,7 +46,7 @@ This library allows an Arduino board with USB capabilities to act as a Mouse.
 - Already present: NA
 - Can be added:
   - JoystickControl.ino - Move the mouse with the help of joystick connected to Arduino
-  - 
+  - c
 
 #### [Arduino_JSON](https://github.com/arduino-libraries/Arduino_JSON)
 
@@ -445,10 +445,10 @@ Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQ3MTgyODcsMTgxMDQ4MDE5NCwxOT
-E4OTUxNjY3LDM4MzczNjQ5OCw4OTA2NzUxNSwtNDU2NjQ3Njcz
-LDEwMTY0NTE0NjksLTMyMzA1MzI0MCwtMTM2NzgzNjcyNiwtMj
-AyMTAzNjU4MCwxMTc0NzA3Nzg2LC02NjQ3MTE2MTYsLTIxMjMy
-MjIwNjIsNjU1MjcwNzY0LC0xNDMxODQ4Mzc4LDEwMDUzNzAzND
-YsLTUyNjU3Nzc0MSwtMTAxMjcyODU1MV19
+eyJoaXN0b3J5IjpbNTAxNjUxNzgsLTEyODQ3MTgyODcsMTgxMD
+Q4MDE5NCwxOTE4OTUxNjY3LDM4MzczNjQ5OCw4OTA2NzUxNSwt
+NDU2NjQ3NjczLDEwMTY0NTE0NjksLTMyMzA1MzI0MCwtMTM2Nz
+gzNjcyNiwtMjAyMTAzNjU4MCwxMTc0NzA3Nzg2LC02NjQ3MTE2
+MTYsLTIxMjMyMjIwNjIsNjU1MjcwNzY0LC0xNDMxODQ4Mzc4LD
+EwMDUzNzAzNDYsLTUyNjU3Nzc0MSwtMTAxMjcyODU1MV19
 -->
