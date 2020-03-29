@@ -46,7 +46,7 @@ This library allows an Arduino board with USB capabilities to act as a Mouse.
 - Already present: NA
 - Can be added:
   - JoystickControl.ino - Move the mouse with the help of joystick connected to Arduino
-  - DrawShapes.ino - 
+  - DrawShapes.ino - Open paint and draw primitive shapes like reactangle and square
 
 #### [Arduino_JSON](https://github.com/arduino-libraries/Arduino_JSON)
 
@@ -445,11 +445,11 @@ Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg5OTc3OTYsLTEyODQ3MTgyODcsNT
-AxNjUxNzgsLTEyODQ3MTgyODcsMTgxMDQ4MDE5NCwxOTE4OTUx
-NjY3LDM4MzczNjQ5OCw4OTA2NzUxNSwtNDU2NjQ3NjczLDEwMT
-Y0NTE0NjksLTMyMzA1MzI0MCwtMTM2NzgzNjcyNiwtMjAyMTAz
-NjU4MCwxMTc0NzA3Nzg2LC02NjQ3MTE2MTYsLTIxMjMyMjIwNj
-IsNjU1MjcwNzY0LC0xNDMxODQ4Mzc4LDEwMDUzNzAzNDYsLTUy
-NjU3Nzc0MV19
+eyJoaXN0b3J5IjpbMTQxNzY2MzAyMywtMTI4NDcxODI4Nyw1MD
+E2NTE3OCwtMTI4NDcxODI4NywxODEwNDgwMTk0LDE5MTg5NTE2
+NjcsMzgzNzM2NDk4LDg5MDY3NTE1LC00NTY2NDc2NzMsMTAxNj
+Q1MTQ2OSwtMzIzMDUzMjQwLC0xMzY3ODM2NzI2LC0yMDIxMDM2
+NTgwLDExNzQ3MDc3ODYsLTY2NDcxMTYxNiwtMjEyMzIyMjA2Mi
+w2NTUyNzA3NjQsLTE0MzE4NDgzNzgsMTAwNTM3MDM0NiwtNTI2
+NTc3NzQxXX0=
 -->
