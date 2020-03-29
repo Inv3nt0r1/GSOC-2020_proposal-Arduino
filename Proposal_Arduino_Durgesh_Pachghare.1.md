@@ -292,11 +292,11 @@ The Scheduler library enables the Arduino Due, Zero, and MKR1000 to run multiple
 
   1. Purchase all the required hardware required from Arduin store.
   2. Communicate with mentors, get familier with the expectations, work culture, standards and read conttribution guidelines.
-  3. Read datasheets of sensors and boards, learn and understand more about the libraries.  Get everything ready to start coding.
-  4. Create a detailed plan of the project, more detailed design by communicating with mentors and document everything.
-  5. Getting ready for documenting everything, create templates and schedule for documentation.
-  6. Create a proper testing plan for testing the developed code. I believe in extensive testing and making the code perfect before deploying. Every code will get deployed only after testing it on hardware with all possible test cases. 
-  7. Get involved in the community, communicate often, become familier with everyone and become the part of this great family.
+  3. Create a detailed plan of the project, more detailed design by communicating with mentors and document everything.
+  4. Getting ready for documenting everything, create templates and schedule for documentation.
+  5. Create a proper testing plan for testing the developed code. I believe in extensive testing and making the code perfect before deploying. Every code will get deployed only after testing it on hardware with all possible test cases. 
+  6. Read datasheets of sensors and boards, learn and understand more about the libraries.  Get everything ready to start coding.
+  7. Most importantly, Get involved in the community, communicate often, become familier with everyone and become the part of this great family.
 
 
 ### **Phase 1**
@@ -452,8 +452,8 @@ Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwODM0NTI4LC0yMDIxMDM2NTgwLDExNz
-Q3MDc3ODYsLTY2NDcxMTYxNiwtMjEyMzIyMjA2Miw2NTUyNzA3
-NjQsLTE0MzE4NDgzNzgsMTAwNTM3MDM0NiwtNTI2NTc3NzQxLC
-0xMDEyNzI4NTUxXX0=
+eyJoaXN0b3J5IjpbLTEzNjc4MzY3MjYsLTIwMjEwMzY1ODAsMT
+E3NDcwNzc4NiwtNjY0NzExNjE2LC0yMTIzMjIyMDYyLDY1NTI3
+MDc2NCwtMTQzMTg0ODM3OCwxMDA1MzcwMzQ2LC01MjY1Nzc3ND
+EsLTEwMTI3Mjg1NTFdfQ==
 -->
