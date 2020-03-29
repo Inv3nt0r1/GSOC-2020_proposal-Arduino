@@ -16,8 +16,9 @@
 
 ## Technical Details
 
-* After reviewing all the Libraries listed under Arduino-Libraries, I have listed down libraries that need examples or potential projects that can be done and documented on Project Hub. 
-* Also, some libraries need some enhancements, like adding new features or solving a few bugs. However, the examples and projects that I will contribute are not limited to the following list. More examples, projects, and enhancements are most likely to be added.
+* After reviewing all the Libraries listed under Arduino-Libraries, I have listed down libraries that need examples or potential projects that can be done and documented on Project Hub and also enhancements in libraries like adding new features or solving a few bugs.
+* However, the examples and projects that I will contribute are not limited to the following list. More examples, projects, and enhancements are most likely to be added.
+* However, the examples and projects that I have listed below are just my insights 
 If any mentor wants me to work on some libraries, if they want to suggest me some, it will be appreciated. 
 
 The work listed below seems a lot, but I have done much projects like this before. I assure that this will get completed before time.
@@ -453,6 +454,6 @@ Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTUyOTk4MzYsLTE0MzE4NDgzNzgsMT
-AwNTM3MDM0NiwtNTI2NTc3NzQxLC0xMDEyNzI4NTUxXX0=
+eyJoaXN0b3J5IjpbNjU1MjcwNzY0LC0xNDMxODQ4Mzc4LDEwMD
+UzNzAzNDYsLTUyNjU3Nzc0MSwtMTAxMjcyODU1MV19
 -->
