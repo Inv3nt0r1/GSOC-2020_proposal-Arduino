@@ -36,7 +36,7 @@ This library allows an Arduino board with USB capabilities to act as a Keyboard.
   - KeyPattern.ino - Send keystrokes from a pattern of keys specified in the program
   - ProgramKeys.ino - Read a pattern of keys (Printable) from Serial monitor and program Arduino to send that pattern
   - Shutdown.ino - Program containing keystrokes to shut down a computer
-  - MacroDeck.ino - Create a macro deck containing small array of switches programmed to send specific combination of keystrokes as a macro (like StreamDeck)
+  - [ Project ] MacroDeck.ino - Create a macro deck containing small array of switches programmed to send specific combination of keystrokes as a macro (like StreamDeck)
   - [ Project ] BluetoothControl - Control the mouse and keyboard with a basic Bluetooth Module and android app
 
   
@@ -447,10 +447,10 @@ Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODk1MTY2NywzODM3MzY0OTgsODkwNj
-c1MTUsLTQ1NjY0NzY3MywxMDE2NDUxNDY5LC0zMjMwNTMyNDAs
-LTEzNjc4MzY3MjYsLTIwMjEwMzY1ODAsMTE3NDcwNzc4NiwtNj
-Y0NzExNjE2LC0yMTIzMjIyMDYyLDY1NTI3MDc2NCwtMTQzMTg0
-ODM3OCwxMDA1MzcwMzQ2LC01MjY1Nzc3NDEsLTEwMTI3Mjg1NT
-FdfQ==
+eyJoaXN0b3J5IjpbMTgxMDQ4MDE5NCwxOTE4OTUxNjY3LDM4Mz
+czNjQ5OCw4OTA2NzUxNSwtNDU2NjQ3NjczLDEwMTY0NTE0Njks
+LTMyMzA1MzI0MCwtMTM2NzgzNjcyNiwtMjAyMTAzNjU4MCwxMT
+c0NzA3Nzg2LC02NjQ3MTE2MTYsLTIxMjMyMjIwNjIsNjU1Mjcw
+NzY0LC0xNDMxODQ4Mzc4LDEwMDUzNzAzNDYsLTUyNjU3Nzc0MS
+wtMTAxMjcyODU1MV19
 -->
