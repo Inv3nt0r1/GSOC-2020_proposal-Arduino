@@ -279,9 +279,6 @@ The Scheduler library enables the Arduino Due, Zero, and MKR1000 to run multiple
  
 ## Schedule of Deliverables
 
-* The examples and projects that I will contribute is not limited to the following list. More examples, projects and enhancements is most likely to be added.
-* The documentation about the work will be done alongside the work. 
-
 ### **Before Community Bonding Period**
 
 1. Gather more information about what can be improved in the libraries, their examples, any bugs that can be solved, any features that I can add to the libraries, etc.
@@ -452,8 +449,8 @@ Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc4MzY3MjYsLTIwMjEwMzY1ODAsMT
-E3NDcwNzc4NiwtNjY0NzExNjE2LC0yMTIzMjIyMDYyLDY1NTI3
-MDc2NCwtMTQzMTg0ODM3OCwxMDA1MzcwMzQ2LC01MjY1Nzc3ND
-EsLTEwMTI3Mjg1NTFdfQ==
+eyJoaXN0b3J5IjpbLTMyMzA1MzI0MCwtMTM2NzgzNjcyNiwtMj
+AyMTAzNjU4MCwxMTc0NzA3Nzg2LC02NjQ3MTE2MTYsLTIxMjMy
+MjIwNjIsNjU1MjcwNzY0LC0xNDMxODQ4Mzc4LDEwMDUzNzAzND
+YsLTUyNjU3Nzc0MSwtMTAxMjcyODU1MV19
 -->
