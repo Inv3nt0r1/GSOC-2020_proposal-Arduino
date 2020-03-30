@@ -36,7 +36,8 @@ This library allows an Arduino board with USB capabilities to act as a Keyboard.
   - KeyPattern.ino - Send keystrokes from a pattern of keys specified in the program
   - ProgramKeys.ino - Read a pattern of keys (Printable) from Serial monitor and program Arduino to send that pattern
   - Shutdown.ino - Program containing keystrokes to shut down a computer
-  - [ Project ] MacroDeck.ino - Create a macro deck containing small array of switches programmed to send specific combination of keystrokes as a macro (like StreamDeck)
+  - MacroDeck.ino - Create a macro deck containing small array of switches programmed to send specific combination of keystrokes as a macro (like StreamDeck)
+  - [ Project ] GamePad - Simple PS2 remote like gamepad containing 2 Joysticks (1 controlling aim and another controlling movement) and other programmable buttons
   
 
 #### [Mouse](https://github.com/arduino-libraries/Mouse)
@@ -47,6 +48,7 @@ This library allows an Arduino board with USB capabilities to act as a Mouse.
 - Can be added:
   - JoystickControl.ino - Move the mouse with the help of joystick connected to Arduino
   - DrawShapes.ino - Open paint and draw primitive shapes like reactangle, circle and square. 
+  - [ Project ] GamePad - Simple PS2 remote like gamepad containing 2 Joysticks (one controlling aim and another controlling movement) and other programmable buttons like for fire and reload
 
 #### [Arduino_JSON](https://github.com/arduino-libraries/Arduino_JSON)
 
@@ -92,7 +94,7 @@ The RTC library enables an Arduino Zero or MKR1000 board to take control of the 
 
 - Library Enhancements:
   - Function to set the RTC clock to the time of compilation
-  - Accurate wrapping of time for functions setHours() and setMinutes()
+  - Accurate wrapping of time for functions setHours() and setMinutes()  
 - Examples that can be added:
   - SleepWakeRTC.ino - Example in which arduino performs periodic task and goes in sleep mode after completing the task with setting an wake up alarm
   - [ Project ] CoronavirusWashHandAlert - A periodic alert which plays an audio asking users to wash hands to avoid getting infected by corona virus. Alert is disabled by a clap or a button. 
@@ -263,7 +265,7 @@ The Scheduler library enables the Arduino Due, Zero, and MKR1000 to run multiple
 ### List of Projects:
 | List of Projects | Libraries Used | Hardware Used |
 |--|--|--|
-| BluetoothControl - Control the mouse and keyboard with a basic Bluetooth Module and android app | Keyboard, Mouse, ArduinoBLE | Arduino Nano 33 IOT |
+| GamePad - Simple PS2 remote like gamepad containing 2 Joysticks (one controlling aim and another controlling movement) and other programmable buttons like for fire and reload | Keyboard, Mouse | Arduino Nano 33 IOT |
 | CoronavirusWashHandAlert - A periodic alert which plays an audio asking users to wash hands to avoid getting infected by corona virus. Alert is disabled by a clap or a button. | ArduinoSound, RTCZero, AudioZero | MKR1000, I2S mic, speaker |
 | DisplayHumidityTemp - Display Current Humidity, temperature, and clock onto a display and log the data in an SD card | ArduinoGraphics, HTS221, TFT, SD | Nano 33 BLE Sense, Display |
 | PanTilt - Pan-tilt mechanism (For ex. pan-tilt for fpv cam) on the input of Joystick or IMU | LSM9DS1 / LSM6DS3, Servo | Nano 33 IOT, Servos, 3D printed frame |
@@ -306,15 +308,15 @@ List of libraries:
 
 Projects that will be done in this phase:
 
- 1. BluetoothControl - Control the mouse and keyboard with a basic Bluetooth Module and android app
- 2. CoronavirusWashHandAlert - A periodic alert which plays an audio asking users to wash hands to avoid geng infected by corona virus. Alert is disabled by a clap or a button.
+ 1. GamePad - Simple PS2 remote like gamepad containing 2 Joysticks (one controlling aim and another controlling movement) and other programmable buttons like for fire and reload
+ 2. CoronavirusWashHandAlert - A periodic alert which plays an audio asking users to wash hands to avoid getting infected by corona virus. Alert is disabled by a clap or a button.
  3. DisplayHumidityTemp - Display Current Humidity, temperature, and clock onto a display and log the data in an SD card
 
 #### **Timeline**
 This week-by-week timeline provides a rough guideline of how the project will be done.
 Week 1: Libraries Keyboard, Mouse, Arduino_JSON and Servo
 Week 2 and 3: Libraries SD, RTCZero, ArduinoZero, Arduino_HTS221
-Week 3: Projects BluetoothControl, CoronVirusWashHandAlert
+Week 3: Projects GamePad, CoronVirusWashHandAlert
 Week 4: Project DisplayHumidityTemp, doing pending tasks and documentation. 
 
 ### **Phase 2**
@@ -445,11 +447,11 @@ Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwMjY1NywxNDE3NjYzMDIzLC0xMjg0Nz
-E4Mjg3LDUwMTY1MTc4LC0xMjg0NzE4Mjg3LDE4MTA0ODAxOTQs
-MTkxODk1MTY2NywzODM3MzY0OTgsODkwNjc1MTUsLTQ1NjY0Nz
-Y3MywxMDE2NDUxNDY5LC0zMjMwNTMyNDAsLTEzNjc4MzY3MjYs
-LTIwMjEwMzY1ODAsMTE3NDcwNzc4NiwtNjY0NzExNjE2LC0yMT
-IzMjIyMDYyLDY1NTI3MDc2NCwtMTQzMTg0ODM3OCwxMDA1Mzcw
-MzQ2XX0=
+eyJoaXN0b3J5IjpbMTI1NjM5MDQ2Myw4NTAyNjU3LDE0MTc2Nj
+MwMjMsLTEyODQ3MTgyODcsNTAxNjUxNzgsLTEyODQ3MTgyODcs
+MTgxMDQ4MDE5NCwxOTE4OTUxNjY3LDM4MzczNjQ5OCw4OTA2Nz
+UxNSwtNDU2NjQ3NjczLDEwMTY0NTE0NjksLTMyMzA1MzI0MCwt
+MTM2NzgzNjcyNiwtMjAyMTAzNjU4MCwxMTc0NzA3Nzg2LC02Nj
+Q3MTE2MTYsLTIxMjMyMjIwNjIsNjU1MjcwNzY0LC0xNDMxODQ4
+Mzc4XX0=
 -->
