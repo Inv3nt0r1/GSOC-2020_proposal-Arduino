@@ -275,7 +275,7 @@ The Scheduler library enables the Arduino Due, Zero, and MKR1000 to run multiple
 
 <br>
 
- **Note:** However, the examples and projects that I have listed below are just my understanding of the need of examples in the libraries. I will be happy to discuss with mentors to list down a different set of examples or edit this existing list even on different libraries if needed.
+ **Note:** However, the examples and projects that I have listed in this proposal are just my understanding of the need of examples in the libraries. I will be happy to discuss with mentors and list down a different set of examples or edit this existing list even on different libraries if needed.
  <br>
  <br> 
  
@@ -449,11 +449,11 @@ Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI2OTg1ODMsMTI1NjM5MDQ2Myw4NT
-AyNjU3LDE0MTc2NjMwMjMsLTEyODQ3MTgyODcsNTAxNjUxNzgs
-LTEyODQ3MTgyODcsMTgxMDQ4MDE5NCwxOTE4OTUxNjY3LDM4Mz
-czNjQ5OCw4OTA2NzUxNSwtNDU2NjQ3NjczLDEwMTY0NTE0Njks
-LTMyMzA1MzI0MCwtMTM2NzgzNjcyNiwtMjAyMTAzNjU4MCwxMT
-c0NzA3Nzg2LC02NjQ3MTE2MTYsLTIxMjMyMjIwNjIsNjU1Mjcw
-NzY0XX0=
+eyJoaXN0b3J5IjpbMTMwMDM4MjY5NSwxMjU2MzkwNDYzLDg1MD
+I2NTcsMTQxNzY2MzAyMywtMTI4NDcxODI4Nyw1MDE2NTE3OCwt
+MTI4NDcxODI4NywxODEwNDgwMTk0LDE5MTg5NTE2NjcsMzgzNz
+M2NDk4LDg5MDY3NTE1LC00NTY2NDc2NzMsMTAxNjQ1MTQ2OSwt
+MzIzMDUzMjQwLC0xMzY3ODM2NzI2LC0yMDIxMDM2NTgwLDExNz
+Q3MDc3ODYsLTY2NDcxMTYxNiwtMjEyMzIyMjA2Miw2NTUyNzA3
+NjRdfQ==
 -->
