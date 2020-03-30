@@ -192,7 +192,7 @@ Core graphics library for Arduino. Based on the Processing API.
 
 - Library Enhancement:
   - Add primitives shapes like circle using Bresenham's circle drawing algorithm and ellipse using Midpoint ellipse drawing algorithm
-  - Add rotate() and translate() API for different types of coordinates
+  - Add rotate() and translate() API for different types of coordinates, really helpful when we need to port the code for different screen s
 - Examples already present: NA
 - Can be added:
   - SimpleDrawing.ino - Simple Drawing containing shapes like circle, square filled with colors
@@ -447,11 +447,11 @@ Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjM5MDQ2Myw4NTAyNjU3LDE0MTc2Nj
-MwMjMsLTEyODQ3MTgyODcsNTAxNjUxNzgsLTEyODQ3MTgyODcs
-MTgxMDQ4MDE5NCwxOTE4OTUxNjY3LDM4MzczNjQ5OCw4OTA2Nz
-UxNSwtNDU2NjQ3NjczLDEwMTY0NTE0NjksLTMyMzA1MzI0MCwt
-MTM2NzgzNjcyNiwtMjAyMTAzNjU4MCwxMTc0NzA3Nzg2LC02Nj
-Q3MTE2MTYsLTIxMjMyMjIwNjIsNjU1MjcwNzY0LC0xNDMxODQ4
-Mzc4XX0=
+eyJoaXN0b3J5IjpbLTIwMDUxNzQwMjksMTI1NjM5MDQ2Myw4NT
+AyNjU3LDE0MTc2NjMwMjMsLTEyODQ3MTgyODcsNTAxNjUxNzgs
+LTEyODQ3MTgyODcsMTgxMDQ4MDE5NCwxOTE4OTUxNjY3LDM4Mz
+czNjQ5OCw4OTA2NzUxNSwtNDU2NjQ3NjczLDEwMTY0NTE0Njks
+LTMyMzA1MzI0MCwtMTM2NzgzNjcyNiwtMjAyMTAzNjU4MCwxMT
+c0NzA3Nzg2LC02NjQ3MTE2MTYsLTIxMjMyMjIwNjIsNjU1Mjcw
+NzY0XX0=
 -->
