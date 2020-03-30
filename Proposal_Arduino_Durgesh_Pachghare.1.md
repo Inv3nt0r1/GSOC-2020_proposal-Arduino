@@ -192,7 +192,7 @@ Core graphics library for Arduino. Based on the Processing API.
 
 - Library Enhancement:
   - Add primitives shapes like circle using Bresenham's circle drawing algorithm and ellipse using Midpoint ellipse drawing algorithm
-  - Add rotate() and translate() API for different types of coordinates, really helpful when we need to port the code for different screen s
+  - Add rotate() and translate() API for different types of coordinates, really helpful when we need to port the code for different screen sizes
 - Examples already present: NA
 - Can be added:
   - SimpleDrawing.ino - Simple Drawing containing shapes like circle, square filled with colors
@@ -273,7 +273,9 @@ The Scheduler library enables the Arduino Due, Zero, and MKR1000 to run multiple
 | SnakeGame - Simple snake game on MKR RGB Shield with input of Joystick or gestures | MKRRGB, TFT, Arduino_APDS9960| MKR RGB Shield / TFT LCD, Nano 33 BLE Sense |
 | DisplayWeather - Display weather info on TFT LCD Display using TFT, JSON and WiFi libraries | TFT, Arduino_JSON, WiFi | MKR 1000, TFT LCD |
 
- 
+<br>
+
+ **Note:** However, the examples and projects that I have listed below are just my understanding of the need of examples in the libraries. I will be happy to discuss with mentors to list down a different set of examples or edit this existing list even on different libraries if needed.
  <br>
  <br> 
  
@@ -447,7 +449,7 @@ Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDUxNzQwMjksMTI1NjM5MDQ2Myw4NT
+eyJoaXN0b3J5IjpbLTEzODI2OTg1ODMsMTI1NjM5MDQ2Myw4NT
 AyNjU3LDE0MTc2NjMwMjMsLTEyODQ3MTgyODcsNTAxNjUxNzgs
 LTEyODQ3MTgyODcsMTgxMDQ4MDE5NCwxOTE4OTUxNjY3LDM4Mz
 czNjQ5OCw4OTA2NzUxNSwtNDU2NjQ3NjczLDEwMTY0NTE0Njks
