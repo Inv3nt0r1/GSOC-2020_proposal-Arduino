@@ -363,35 +363,48 @@ Week 11: Project SnakeGame
 Week 12: Finalizing, Completing Pending tasks and Documentation.
   
 
+
+
 ## Development Experience
 
 ### **Arduino:**
-I have around six years of experience working with Arduino. I started learning and trying example sketches from my school time. From then on, I have developed a lot of Arduino projects of robotics, drones containing various components. 
-* **Professional Experience:**
-	* I have experience of working with a startup as an under Govt. of India that designed and manufactured smart pill dispenser device under the scheme of eradicating Tuberculosis from India. 
-	* My task was to design and program the embedded device in Arduino, which records when the user takes the medicine, triggers an alarm when the medicine needs to be taken and sends data to the server periodically through SMS. 
-	* Since the actual code is under NDA, I have my [practise codes](https://github.com/Inv3nt0r1/Smart-pill-dispenser-device) which I used to test individual components and practise.
+I have around five years of experience working with Arduino. I started learning and trying example sketches from my high-school time. From then on, I have developed a lot of Arduino projects of robotics, drones containing various components. 
+#### **Professional Experience:**
+* I have worked with a startup under Govt. of India as a Embedded Software Intern that designed and manufactured smart pill dispenser device under the scheme of eradicating Tuberculosis from India. 
+* My task was to design and program the embedded device in Arduino, which records when the user takes the medicine, triggers an alarm when the medicine needs to be taken and sends data to the server periodically through SMS.
+* Since the actual code is under NDA, I have my [practise codes](https://github.com/Inv3nt0r1/Smart-pill-dispenser-device) which I used to test individual components and practise.
 
 
-* **Development Experience:**
-	* I have been a part of the Robotics club in my institute and also been Lead of the technical team 'Team Vector' which represents our institute in various robotics competitions like ABU Robocon. 
+#### **Development Experience:**
+* I have been a part of the Robotics club in my institute and also been Lead of the technical team 'Team Vector' which represents our institute in various robotics competitions like ABU Robocon. 
 	* Repository containing basic codes for all the components that we used in the robotics club [is here.](https://github.com/Inv3nt0r1/Team_Vector_comp)
-	* Project - 'Pre and post Accident detection and alerting system' which won the first prize in National Level Expo: [Description and code](https://github.com/Inv3nt0r1/Pre_post_accident_detection_and_alerting_system)
-	* Project - Autonomous Quadruped Robot which uses servos as actuators. [ [Code] ](https://github.com/Inv3nt0r1/Team_Vector_comp/tree/master/Robocon_2019_Archive)
-	* I have worked on Following Arduino Boards:
-		1. Arduino Uno
-		2. Arduino Mega
-		3. Arduino Mini
-		4. Arduino Nano
-		5. Arduino Lilypad
-		6. Other Arduino Supported Boards like: Teensy 3.2 and 3.6	
-	* Single Board Computers:
-		8. Raspberry Pi 3B+ and 4
-		9. Intel Edison
-	* I have experience with a lot of sensors from simple to industry level including but not limited to Distance sensors, Line Followers, Temperature sensors, IMUs over various buses like I2C and SPI.
-	* I also have worked with some IoT Projects, various communication protocols, etc. 
-	* I also have experience with a lot of Arduino shields like USB Shield, Ethernet Shield and various Motor Drivers.
-	* I have done simple to complex projects using Arduino which includes all of these components with the proper design of algorithm and code.
+* Project - 'Pre and post Accident detection and alerting system' that won
+	* First Prize - National Level IET Karmaveer Expo
+	* Special Appreciation award - Computer Society of India and TCS DISQ Project Competition
+	* Finalists - Tata Crucible Hackathon
+	* [Description and code](https://github.com/Inv3nt0r1/Pre_post_accident_detection_and_alerting_system)
+* Project - Autonomous Quadruped Robot which uses servos as actuators. [ [Codes] ](https://github.com/Inv3nt0r1/Team_Vector_comp/tree/master/Robocon_2019_Archive)
+* A shuttle throwing hanlding robot and throwing robot - Robocon 2018 Theme. [ [Codes] ](https://github.com/Inv3nt0r1/Team_Vector_comp/tree/master/Robocon_2018_Archive)
+* I have worked on Following Arduino Boards:
+	 1. Arduino Uno
+	 2. Arduino Mega
+	 3.  Arduino Mini
+	 4. Arduino Nano
+	 5.  Arduino Lilypad
+	 6. Other Arduino Supported Boards like: Teensy 3.2 and 3.6	
+* Single Board Computers:
+	1. Raspberry Pi 3B+ and 4
+	2. Intel Edison
+* I have experience with a lot of sensors from simple to industry level including but not limited to Distance Sensors (ultrasonic, LIDaR, IR, and more), Line Followers (LSA08, LSS05, IR), Temperature sensors, MQ series sensors, IMUs over various buses like UART, I2C and SPI.
+* I also have experience with output devices and actuators including but not limited to displays, 16x2, 16x4, LCD displays, Touch screen displays, Motor Drivers( Cytron MD10C, MD30C, and more), DCVs, etc.
+* I also have worked with some IoT Projects, various communication protocols, etc. 
+* I also have experience with a lot of Arduino shields like USB Shield, Ethernet Shield and various Motor Drivers.
+* I have done simple to complex projects using Arduino which includes all of these components with the proper design of algorithm and code.
+
+**Contribution to Arduino:**
+1.  Wiper.ino - Using a servo as a car Wiper, activated by switch. [https://github.com/arduino-libraries/Servo/pull/43](https://github.com/arduino-libraries/Servo/pull/43)
+2. Added reference Link of Library Arduino_LSM9DS1 in the Readme. [https://github.com/arduino-libraries/Arduino_LSM9DS1/pull/8](https://github.com/arduino-libraries/Arduino_LSM9DS1/pull/8)
+3. corrected typo in msg printed when SD Card fails to initialize. [https://github.com/arduino-libraries/SD/pull/79](https://github.com/arduino-libraries/SD/pull/79)
 
 ### **Github**
 My Github Profile: [Inv3nt0r1](https://github.com/Inv3nt0r1)
@@ -417,7 +430,12 @@ I am using Git from the last 2 years to manage my projects locally and have more
 	-   Being a lead my task was to teach Arduino and basics of Robotics to newcomers, decide strategies about participating in the competition.
 	-   Designed High-Level Architecture of Robot and different software modules according to the application and testing them after development
 	-   Developed algorithms from scratch like autonomous path planning and navigation using Machine Vision.
-
+- Final year project:
+	- CNN and Serverless Cloud based Collaborative platform for Plant Disease  Identification and Recommendation (PlantAI)
+	- The project is sponsored by ESDS Software Solution Pvt. Ltd.
+	- Our main task is to test [ESDS eNlight Cloud's](https://www.esds.co.in/enlight-cloud-hosting) Serverless Platform, report their bugs while deploying our application on it. 
+	- This project will get completed in April, and then I will have my way clear for GSOC 2020 contribution.
+- Internship - FinIQ Consulting India Pvt Ltd [ [Code] ](https://github.com/Inv3nt0r1/Internship_work-FinIQ)
 -   DELEGATE - Embedded Systems Conference [[Certificate]](https://drive.google.com/open?id=1H4HLAFzItwmvsjwpGLO4oUnX0OsHuMUP)
   
   
@@ -433,10 +451,10 @@ Arduino is a member of my daily experiments. I learned Arduino completely from t
   
 Now because of coronavirus pandemic, everything is postponed. We had our Final year project evaluation in may which will get extended to June. So for a few days, I will need to go to college for demonstrating, submitting and evaluating our project. That will not hamper much to this work. 
 I will be completely free in July and Starting of August. 
-Its my passion and I am ready to work even 12-14 hours a day. I can easily push to at least 50 hours a week in July and August. 
+Its my passion and I am ready to work even 12-14 hours a day. I can easily push to at least 50 hours a week in July and August. It will allow me to do more contribution. 
 
 ## About me
-My name is Durgesh Pachghare, a Computer Engineering student, from K. K. Wagh Institute of Engineering Education and Research which is affiliated to Savitribai Phule Pune University. Arduino was the thing from which I started my learning and experiments in Robotics. I am a well-experienced candidate with six years of experience working with various Arduino boards, Embedded systems, IoT and a large variety of sensors and actuators. Hardware systems, IoT, Arduino has been my passion from school time. I spend my weekend time doing various projects based on Arduino, Robotics, Drones, etc. I am the best candidate for this project because I have much experience working with Arduino and related components. I have my basics clear and thus I can understand quickly and can contribute more planned. I believe in clearing the basics before doing anything and doing everything with perfection. It is my dream to work with such great organization and contribute for open source that will be useful for entire world. This is what motivates me the most. Looking forward to work in Arduino.
+My name is Durgesh Pachghare, a Computer Engineering student, from K. K. Wagh Institute of Engineering Education and Research which is affiliated to Savitribai Phule Pune University. Arduino was the thing from which I started my learning and experiments in Robotics. I am a well-experienced candidate with five years of experience working with various Arduino boards, Embedded systems, IoT and a large variety of sensors and actuators. Hardware systems, IoT, Arduino has been my passion from school time. I spend my weekend time doing various projects based on Arduino, Robotics, Drones, etc. I am the best candidate for this project because I have much experience working with Arduino and related components. I have my basics clear and thus I can understand quickly and can contribute more planned. I believe in clearing the basics before doing anything and doing everything with perfection. It is my dream to work with such great organization and contribute for open source that will be useful for entire world. This is what motivates me the most. Looking forward to work with Arduino.
 
 My Email: durgeshpachghare01@gmail.com
 Contact Number: +91 7057676280
@@ -444,16 +462,12 @@ My Github: https://github.com/Inv3nt0r1
 My linkedin: https://www.linkedin.com/in/durgeshpachghare/
 My CV: https://drive.google.com/open?id=1P5Eh9fU-S0oWWur3-2mpUqhmANDzkpwM
 Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/issues/98
-
-
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDM4MjY5NSwxMjU2MzkwNDYzLDg1MD
-I2NTcsMTQxNzY2MzAyMywtMTI4NDcxODI4Nyw1MDE2NTE3OCwt
-MTI4NDcxODI4NywxODEwNDgwMTk0LDE5MTg5NTE2NjcsMzgzNz
-M2NDk4LDg5MDY3NTE1LC00NTY2NDc2NzMsMTAxNjQ1MTQ2OSwt
-MzIzMDUzMjQwLC0xMzY3ODM2NzI2LC0yMDIxMDM2NTgwLDExNz
-Q3MDc3ODYsLTY2NDcxMTYxNiwtMjEyMzIyMjA2Miw2NTUyNzA3
-NjRdfQ==
+eyJoaXN0b3J5IjpbLTc2NjUzOTE3MCwxMzAwMzgyNjk1LDEyNT
+YzOTA0NjMsODUwMjY1NywxNDE3NjYzMDIzLC0xMjg0NzE4Mjg3
+LDUwMTY1MTc4LC0xMjg0NzE4Mjg3LDE4MTA0ODAxOTQsMTkxOD
+k1MTY2NywzODM3MzY0OTgsODkwNjc1MTUsLTQ1NjY0NzY3Mywx
+MDE2NDUxNDY5LC0zMjMwNTMyNDAsLTEzNjc4MzY3MjYsLTIwMj
+EwMzY1ODAsMTE3NDcwNzc4NiwtNjY0NzExNjE2LC0yMTIzMjIy
+MDYyXX0=
 -->
