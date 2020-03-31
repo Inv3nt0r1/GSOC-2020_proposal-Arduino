@@ -281,7 +281,7 @@ The Scheduler library enables the Arduino Due, Zero, and MKR1000 to run multiple
  
 ## Schedule of Deliverables
 
-**Note:** Because of COVID-19 lock-downs, I am stuck in my hometown and have access to limited hardware. All other hardware is stuck inside Robotics Room in our college, which I kept for other students in our robotics club. The lockdown is there till 14 April, so hopefully I will get my hardware and electronics back, so that I can test examples and codes locally before deploying and also reproduce the bugs in case of fixing. 
+**Note:** Because of COVID-19 lock-downs, I am stuck in my hometown and have access to limited hardware. All other hardware is stuck inside Robotics Room in our college. The lockdown is there till 14 April, so hopefully I will get my hardware and electronics back, so that I can test examples and codes locally before deploying and also reproduce the bugs in case of fixing. 
 
 ### **Before Community Bonding Period**
 
@@ -465,7 +465,7 @@ My linkedin: https://www.linkedin.com/in/durgeshpachghare/
 My CV: https://drive.google.com/open?id=1P5Eh9fU-S0oWWur3-2mpUqhmANDzkpwM
 Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/issues/98
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzUyNDU3LC03NjY1MzkxNzAsMTMwMD
+eyJoaXN0b3J5IjpbOTM0ODIwOTY0LC03NjY1MzkxNzAsMTMwMD
 M4MjY5NSwxMjU2MzkwNDYzLDg1MDI2NTcsMTQxNzY2MzAyMywt
 MTI4NDcxODI4Nyw1MDE2NTE3OCwtMTI4NDcxODI4NywxODEwND
 gwMTk0LDE5MTg5NTE2NjcsMzgzNzM2NDk4LDg5MDY3NTE1LC00
