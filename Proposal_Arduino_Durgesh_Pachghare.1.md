@@ -82,9 +82,6 @@ The SD library allows for reading from and writing to SD cards.
   - LogDataInCSV.ino - Log data from sensors into csv file
   - [ Project ] DisplayHumidityTemp - Example project to display Current Humidity, temperature, and clock onto a display and log the data onto an SD card
 
-<br>
-<br>
-<br>
 
 #### [RTCZero](https://github.com/arduino-libraries/RTCZero)
 
@@ -254,12 +251,6 @@ The Scheduler library enables the Arduino Due, Zero, and MKR1000 to run multiple
   -  Adding few more simple examples to demonstrate working and better utilization of Scheduling using Scheduler Library.
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-  
 ### List of Projects:
 | List of Projects | Libraries Used | Hardware Used |
 |--|--|--|
@@ -271,12 +262,10 @@ The Scheduler library enables the Arduino Due, Zero, and MKR1000 to run multiple
 | SnakeGame - Simple snake game on MKR RGB Shield with input of Joystick or gestures | MKRRGB, TFT, Arduino_APDS9960| MKR RGB Shield / TFT LCD, Nano 33 BLE Sense |
 | DisplayWeather - Display weather info on TFT LCD Display using TFT, JSON and WiFi libraries | TFT, Arduino_JSON, WiFi | MKR 1000, TFT LCD |
 
-<br>
+
 
  **Note:** However, the examples and projects that I have listed in this proposal are just my understanding of the need of examples in the libraries. I will be happy to discuss with mentors and list down a different set of examples or edit this existing list even on different libraries if needed.
- <br>
- <br> 
- 
+
 ## Schedule of Deliverables
 
 **Note:** Because of COVID-19 lock-downs, I am stuck in my hometown and have access to limited hardware. All other hardware is stuck inside the Robotics Room in our college. The lockdown is there till 14 April. Hopefully, I will get my hardware and electronics back so that I can test examples and codes locally before deploying and reproduce bugs in case of fixing. 
@@ -463,11 +452,11 @@ My linkedin: https://www.linkedin.com/in/durgeshpachghare/
 My CV: https://drive.google.com/open?id=1P5Eh9fU-S0oWWur3-2mpUqhmANDzkpwM
 Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/issues/98
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzcyMzA0OTcsLTExMjE5MzE1Myw5Mz
-Q4MjA5NjQsLTc2NjUzOTE3MCwxMzAwMzgyNjk1LDEyNTYzOTA0
-NjMsODUwMjY1NywxNDE3NjYzMDIzLC0xMjg0NzE4Mjg3LDUwMT
-Y1MTc4LC0xMjg0NzE4Mjg3LDE4MTA0ODAxOTQsMTkxODk1MTY2
-NywzODM3MzY0OTgsODkwNjc1MTUsLTQ1NjY0NzY3MywxMDE2ND
-UxNDY5LC0zMjMwNTMyNDAsLTEzNjc4MzY3MjYsLTIwMjEwMzY1
-ODBdfQ==
+eyJoaXN0b3J5IjpbNzE3MTI3NzM5LC0xMzM3MjMwNDk3LC0xMT
+IxOTMxNTMsOTM0ODIwOTY0LC03NjY1MzkxNzAsMTMwMDM4MjY5
+NSwxMjU2MzkwNDYzLDg1MDI2NTcsMTQxNzY2MzAyMywtMTI4ND
+cxODI4Nyw1MDE2NTE3OCwtMTI4NDcxODI4NywxODEwNDgwMTk0
+LDE5MTg5NTE2NjcsMzgzNzM2NDk4LDg5MDY3NTE1LC00NTY2ND
+c2NzMsMTAxNjQ1MTQ2OSwtMzIzMDUzMjQwLC0xMzY3ODM2NzI2
+XX0=
 -->
