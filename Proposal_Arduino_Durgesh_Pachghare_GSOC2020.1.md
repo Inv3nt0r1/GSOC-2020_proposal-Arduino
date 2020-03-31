@@ -70,7 +70,7 @@ This library allows an Arduino board to control RC (hobby) servo motors.
   - Sweep.ino - Move servo from 0 to 180 and 180 to 0
 - Can be added:
   - Wiper.ino - Using a servo as a car Wiper, activated by a switch
-  - Examples showing use of some unused functions in examples: read(), attached(), detach(), writeMicroseconds(), etc. 
+  - AutoDoor.ino - Open door (by movExamples showing uservo) when someone comes in front of it (ultrasonic sensor) (SmartDustbin) of some unused functions in examples: read(), attached(), detach(), writeMicroseconds(), etc. 
   - [ Project ] PanTiltIMU - Pan tilt mechanism (For ex. pan-tilt for fpv cam) on the input of Joystick or IMU (LSM9DS1/LSM6DS3)
 
 #### [SD](https://github.com/arduino-libraries/SD)
@@ -164,13 +164,15 @@ Allows you to read the accelerometer, magnetometer and gyroscope values from the
 
   
 
-#### [ArduinoIoTCloud](https://github.com/arduino-libraries/ArduinoIoTCloud)
+#### [ArduinoIoTCloudThing](https://github.com/arduino-libraries/ArduinoIoTCloudThing)
 
-- Examples that can be added:
+- Examples already present: NA
+- Examples that can be added:that can be added:
 	- The examples that are already present focuses on only few selected types. Need to add examples demonstrating how to use other cloud data types. 
   - [ Project ] IoTSensorHub - Example project demonstrating the use of IoT Cloud by sending sensor data and visualizing them on cloud
 
- 
+  
+
 #### [ArduinoModbus](https://github.com/arduino-libraries/ArduinoModbus)
 Use Modbus with your Arduino.
 
@@ -228,7 +230,7 @@ Allows you to draw on your MKR RGB shield. Depends on the ArduinoGraphics librar
 - Example can be added:
   - Visualization.ino - Random Color Visualizations
   - Clock.ino - Simple Clock on MKR RGB Shield
-  - [ Project ] SimpleSnakeGame - Simple snake game on MKR RGB Shield and TFT LCD with input of buttons or gestures on Nano 33 BLE.
+  - [ Project ] SimpleSnakeGame - Simple snake game on MKR RGB Shield and TFT LCD with input of Joystickbuttons or gestures on Nano 33 BLE.
 
 
 #### [TFT](https://github.com/arduino-libraries/TFT)
@@ -236,7 +238,7 @@ Allows you to draw on your MKR RGB shield. Depends on the ArduinoGraphics librar
 This library enables an Arduino board to communicate with the Arduino TFT LCD screen.
 
 - Examples can be done:
-  - [ Project ] SimpleSnakeGame - Simple snake game on TFT LCD Display with input of buttons or gestures on Nano 33 BLE / IOT
+  - [ Project ] SimpleSnakeGame - Simple snake game on TFT LCD Display with input of Joystickbuttons or gestures on Nano 33 BLE / IOT
   - [ Project ] DisplayWeather - Display weather info on TFT LCD Display using TFT, JSON and WiFi libraries (To get clear understanding of how JSON are used in application)
 
 #### [Scheduler](https://github.com/arduino-libraries/Scheduler)
@@ -257,7 +259,7 @@ The Scheduler library enables the Arduino Due, Zero, and MKR1000 to run multiple
 | DisplayHumidityTemp - Display Current Humidity, temperature, and clock onto a display and log the data in an SD card | ArduinoGraphics, HTS221, TFT, SD | Nano 33 BLE Sense, Display |
 | PanTilt - Pan-tilt mechanism (For ex. pan-tilt for fpv cam) on the input of Joystick or IMU | LSM9DS1 / LSM6DS3, Servo | Nano 33 IOT, Servos, 3D printed frame |
 | IoTSensorHub - Example project demonstrating the use of IoT Cloud by sending sensor data and visualizing them on cloud | ArduinoIOTCloud, ArduinoCloudThing |  Nano 33 BLE Sense |
-| SnakeGame - Simple snake game on MKR RGB Shield with input of buttons or gestures | MKRRGB, TFT, Arduino_APDS9960| MKR RGB Shield / TFT LCD, Nano 33 BLE Sense |
+| SnakeGame - Simple snake game on MKR RGB Shield with input of Joystickbuttons or gestures | MKRRGB, TFT, Arduino_APDS9960| MKR RGB Shield / TFT LCD, Nano 33 BLE Sense |
 | DisplayWeather - Display weather info on TFT LCD Display using TFT, JSON and WiFi libraries | TFT, Arduino_JSON, WiFi | MKR 1000, TFT LCD |
 
 
@@ -347,7 +349,7 @@ List of libraries:
 
 Projects that will be done in this phase:
 
- 1. SnakeGame - Simple snake game on MKR RGB Shield with input of buttons or gestures
+ 1. SnakeGame - Simple snake game on MKR RGB Shield with input of Joystickbuttons or gestures
  2. DisplayWeather - Display weather info on TFT LCD Display using TFT, JSON and WiFi libraries
 
 #### **Timeline**
@@ -471,5 +473,5 @@ This proposal Repo: https://github.com/Inv3nt0r1/GSOC-2020_proposal-Arduino
 
 Side note: I hope whoever is reading this and his/her family members are safe in this coronavirus pandemic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDk5MDY4Ml19
+eyJoaXN0b3J5IjpbLTEyMjc0NTg5NzBdfQ==
 -->
