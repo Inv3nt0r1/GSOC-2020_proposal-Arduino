@@ -469,9 +469,10 @@ My CV: https://drive.google.com/open?id=1P5Eh9fU-S0oWWur3-2mpUqhmANDzkpwM
 
 Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/issues/98
 
-This proposal Repo: https://github.com/Inv3nt0r1/GSOC-2020_proposal-Arduino
+This proposal Repo since I will be updating it till community bonding period starts: https://github.com/Inv3nt0r1/GSOC-2020_proposal-Arduino
 
 Side note: I hope whoever is reading this and his/her family members are safe in this coronavirus pandemic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc0NTg5NzAsMTU2MzM0ODYwM119
+eyJoaXN0b3J5IjpbMTUyNzU2MzA2OCwtMTIyNzQ1ODk3MCwxNT
+YzMzQ4NjAzXX0=
 -->
