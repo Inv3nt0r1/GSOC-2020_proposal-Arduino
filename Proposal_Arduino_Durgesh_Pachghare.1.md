@@ -307,8 +307,10 @@ Projects that will be done in this phase:
 This week-by-week timeline provides a rough guideline of how the project will be done.
 
 Week 1: Libraries Keyboard, Mouse, Arduino_JSON and Servo.
+
 Week 2 and 3: Libraries SD, RTCZero, ArduinoZero, Arduino_HTS221.
-Week 3: Projects GamePad, CoronVirusWashHandAlert.
+
+Week 3: Projects GamePad, CoronVirusWashHandAlert
 Week 4: Project DisplayHumidityTemp, doing pending tasks and documentation. 
 
 ### **Phase 2**
@@ -453,11 +455,11 @@ My linkedin: https://www.linkedin.com/in/durgeshpachghare/
 My CV: https://drive.google.com/open?id=1P5Eh9fU-S0oWWur3-2mpUqhmANDzkpwM
 Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/issues/98
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODg4OTgzMSwzNjM3NDM0MDEsNzE3MT
-I3NzM5LC0xMzM3MjMwNDk3LC0xMTIxOTMxNTMsOTM0ODIwOTY0
-LC03NjY1MzkxNzAsMTMwMDM4MjY5NSwxMjU2MzkwNDYzLDg1MD
-I2NTcsMTQxNzY2MzAyMywtMTI4NDcxODI4Nyw1MDE2NTE3OCwt
-MTI4NDcxODI4NywxODEwNDgwMTk0LDE5MTg5NTE2NjcsMzgzNz
-M2NDk4LDg5MDY3NTE1LC00NTY2NDc2NzMsMTAxNjQ1MTQ2OV19
-
+eyJoaXN0b3J5IjpbLTE1MDI3ODE1MTksMTEwODg4OTgzMSwzNj
+M3NDM0MDEsNzE3MTI3NzM5LC0xMzM3MjMwNDk3LC0xMTIxOTMx
+NTMsOTM0ODIwOTY0LC03NjY1MzkxNzAsMTMwMDM4MjY5NSwxMj
+U2MzkwNDYzLDg1MDI2NTcsMTQxNzY2MzAyMywtMTI4NDcxODI4
+Nyw1MDE2NTE3OCwtMTI4NDcxODI4NywxODEwNDgwMTk0LDE5MT
+g5NTE2NjcsMzgzNzM2NDk4LDg5MDY3NTE1LC00NTY2NDc2NzNd
+fQ==
 -->
