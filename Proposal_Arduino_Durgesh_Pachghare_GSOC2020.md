@@ -2,7 +2,6 @@
 # Writing examples, projects and enhancements for official libraries - A practical Approach
 
   
-zxdcvzcv
 ## Abstract
 
  Examples listed in Arduino libraries are the biggest source of learning for beginners to professionals. Examples are the first face of any library that everyone looks for. Most people use implementation of function as stated in examples. Having a rich set of examples that are easy to understand and that shows its capabilities is really important. Some libraries lack such examples. Thus, I have taken this project to make my contribution in writing examples for official libraries under GSOC 2020. This project aims at following things:
@@ -467,5 +466,5 @@ My CV: https://drive.google.com/open?id=1P5Eh9fU-S0oWWur3-2mpUqhmANDzkpwM
 
 Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/issues/98
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDYwNjY1NTldfQ==
+eyJoaXN0b3J5IjpbMTU2MzM0ODYwM119
 -->
