@@ -1,8 +1,6 @@
 
 # Writing examples, projects and enhancements for official libraries - A practical Approach
 
-#### 26 March 2020, Durgesh Pachghare
-
   
 
 ## Abstract
@@ -465,11 +463,11 @@ My linkedin: https://www.linkedin.com/in/durgeshpachghare/
 My CV: https://drive.google.com/open?id=1P5Eh9fU-S0oWWur3-2mpUqhmANDzkpwM
 Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/issues/98
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjE5MzE1Myw5MzQ4MjA5NjQsLTc2Nj
-UzOTE3MCwxMzAwMzgyNjk1LDEyNTYzOTA0NjMsODUwMjY1Nywx
-NDE3NjYzMDIzLC0xMjg0NzE4Mjg3LDUwMTY1MTc4LC0xMjg0Nz
-E4Mjg3LDE4MTA0ODAxOTQsMTkxODk1MTY2NywzODM3MzY0OTgs
-ODkwNjc1MTUsLTQ1NjY0NzY3MywxMDE2NDUxNDY5LC0zMjMwNT
-MyNDAsLTEzNjc4MzY3MjYsLTIwMjEwMzY1ODAsMTE3NDcwNzc4
-Nl19
+eyJoaXN0b3J5IjpbLTEzMzcyMzA0OTcsLTExMjE5MzE1Myw5Mz
+Q4MjA5NjQsLTc2NjUzOTE3MCwxMzAwMzgyNjk1LDEyNTYzOTA0
+NjMsODUwMjY1NywxNDE3NjYzMDIzLC0xMjg0NzE4Mjg3LDUwMT
+Y1MTc4LC0xMjg0NzE4Mjg3LDE4MTA0ODAxOTQsMTkxODk1MTY2
+NywzODM3MzY0OTgsODkwNjc1MTUsLTQ1NjY0NzY3MywxMDE2ND
+UxNDY5LC0zMjMwNTMyNDAsLTEzNjc4MzY3MjYsLTIwMjEwMzY1
+ODBdfQ==
 -->
