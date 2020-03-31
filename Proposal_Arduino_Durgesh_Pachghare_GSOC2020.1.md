@@ -268,7 +268,7 @@ The Scheduler library enables the Arduino Due, Zero, and MKR1000 to run multiple
 
 ## Schedule of Deliverables
 
-**Note:** Because of COVID-19 lock-downs, I am stuck in my hometown and have access to limited hardware. All other hardware is stuck inside the Robotics Room in our college. The lockdown is there till 14 April. Hopefully, I will get my hardware and electronics back and also I have ordered an Arduino MKR Zero board from a [reseller in my country, and it will get delivered after 14 April. Then, I can test examples and codes locally before deploying and reproduce bugs in case of fixing. 
+**Note:** Because of COVID-19 lock-downs, I am stuck in my hometown and have access to limited hardware. All other hardware is stuck inside the Robotics Room in our college. The lockdown is there till 14 April. Hopefully, I will get my hardware and electronics back and also I have ordered an original Arduino MKR Zero board from a reseller in my country, and it will get delivered after 14 April. Then, I can test examples and codes locally before deploying and reproduce bugs in case of fixing. 
 
 ### **Before Community Bonding Period**
 
@@ -473,6 +473,6 @@ This proposal Repo since I will be updating it till community bonding period sta
 
 Side note: I hope whoever is reading this and his/her family members are safe in this coronavirus pandemic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzMzIwMzU5LDE1Mjc1NjMwNjgsLTEyMj
+eyJoaXN0b3J5IjpbODAxOTExNDY1LDE1Mjc1NjMwNjgsLTEyMj
 c0NTg5NzBdfQ==
 -->
