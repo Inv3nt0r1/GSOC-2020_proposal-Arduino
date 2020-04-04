@@ -166,7 +166,6 @@ Allows you to read the accelerometer, magnetometer and gyroscope values from the
 
 #### [ArduinoIoTCloud](https://github.com/arduino-libraries/ArduinoIoTCloud)
 
-- Examples already present: NA
 - Examples that can be added:that can be added:
 	- The examples that are already present focuses on only few selected types. Need to add examples demonstrating how to use other cloud data types. 
   - [ Project ] IoTSensorHub - Example project demonstrating the use of IoT Cloud by sending sensor data and visualizing them on cloud
@@ -473,7 +472,7 @@ This proposal Repo since I will be updating it till community bonding period sta
 
 Side note: I hope whoever is reading this and his/her family members are safe in this coronavirus pandemic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MzkwODQzMSwxODYwMDY2MTcxLDE4Nj
-AwNjYxNzEsODAxOTExNDY1LDE1Mjc1NjMwNjgsLTEyMjc0NTg5
-NzBdfQ==
+eyJoaXN0b3J5IjpbLTEyODExNzE3MjEsMTg2MDA2NjE3MSwxOD
+YwMDY2MTcxLDgwMTkxMTQ2NSwxNTI3NTYzMDY4LC0xMjI3NDU4
+OTcwXX0=
 -->
