@@ -272,7 +272,7 @@ The Scheduler library enables the Arduino Due, Zero, and MKR1000 to run multiple
 
 ### **Before Community Bonding Period**
 
-1.  Gather detailed insights of all 90 libraries and list down better examples that can be added to the libraries. Make changes in the list alongside.
+1.  Gather detailed insights of all 90 libraries and list down better examples tat can be added to the libraries. Make changes in the list alongside.
 2. Read contribution guidelines and get familiar with the standards and style-guide. Fix issues and create necessary pull requests to the best of my abilities to better understand and get familiar with contribution standards. 
 3. Understand the electronics characteristics of newer Arduino Boards. It's much easier to work with any board and components once you have enough knowledge about its electronics.
 
@@ -473,6 +473,6 @@ This proposal Repo since I will be updating it till community bonding period sta
 
 Side note: I hope whoever is reading this and his/her family members are safe in this coronavirus pandemic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxOTExNDY1LDE1Mjc1NjMwNjgsLTEyMj
-c0NTg5NzAsMTU2MzM0ODYwM119
+eyJoaXN0b3J5IjpbMTg2MDA2NjE3MSw4MDE5MTE0NjUsMTUyNz
+U2MzA2OCwtMTIyNzQ1ODk3MCwxNTYzMzQ4NjAzXX0=
 -->
