@@ -164,7 +164,7 @@ Allows you to read the accelerometer, magnetometer and gyroscope values from the
 
   
 
-#### [ArduinoIoTCloudThing](https://github.com/arduino-libraries/ArduinoIoTCloudThing)
+#### [ArduinoIoTCloud](https://github.com/arduino-libraries/ArduinoIoTCloud)
 
 - Examples already present: NA
 - Examples that can be added:that can be added:
@@ -473,6 +473,7 @@ This proposal Repo since I will be updating it till community bonding period sta
 
 Side note: I hope whoever is reading this and his/her family members are safe in this coronavirus pandemic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDA2NjE3MSwxODYwMDY2MTcxLDgwMT
-kxMTQ2NSwxNTI3NTYzMDY4LC0xMjI3NDU4OTcwXX0=
+eyJoaXN0b3J5IjpbLTQ5MzkwODQzMSwxODYwMDY2MTcxLDE4Nj
+AwNjYxNzEsODAxOTExNDY1LDE1Mjc1NjMwNjgsLTEyMjc0NTg5
+NzBdfQ==
 -->
