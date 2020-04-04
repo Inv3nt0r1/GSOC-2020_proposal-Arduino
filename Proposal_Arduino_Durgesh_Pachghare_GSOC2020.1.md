@@ -472,9 +472,7 @@ Communication thread in GSOC's repo: https://github.com/arduino/summer-of-code/i
 This proposal Repo since I will be updating it till community bonding period starts: https://github.com/Inv3nt0r1/GSOC-2020_proposal-Arduino
 
 Side note: I hope whoever is reading this and his/her family members are safe in this coronavirus pandemic.
-
-Hello
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTkzMzAzNSwxODYwMDY2MTcxLDgwMT
+eyJoaXN0b3J5IjpbMTg2MDA2NjE3MSwxODYwMDY2MTcxLDgwMT
 kxMTQ2NSwxNTI3NTYzMDY4LC0xMjI3NDU4OTcwXX0=
 -->
