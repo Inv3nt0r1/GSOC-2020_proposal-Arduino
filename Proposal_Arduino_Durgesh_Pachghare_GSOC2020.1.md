@@ -276,7 +276,8 @@ The Scheduler library enables the Arduino Due, Zero, and MKR1000 to run multiple
 3. Understand the electronics characteristics of newer Arduino Boards. It's much easier to work with any board and components once you have enough knowledge about its electronics.
 
 Details:
-- [x] Order Arduino MKRZero Board [Link of 
+- [x] Order original Arduino MKRZero Board. [Link of Product](https://www.rhydolabz.com/arduino-arduino-boards-c-152_123/arduino-mkr-zero-i2s-bus-sd-for-soundmusic-digital-audio-p-2544.html)
+- [ ] Delivery - Awating Delivery. Delivery halted because of Covid-19 lockdown. 
 
 ### **Community Bonding Period**
 
@@ -475,7 +476,7 @@ This proposal Repo since I will be updating it till community bonding period sta
 
 Side note: I hope whoever is reading this and his/her family members are safe in this coronavirus pandemic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjE5MDM3MCwtMTI4MTE3MTcyMSwxOD
-YwMDY2MTcxLDE4NjAwNjYxNzEsODAxOTExNDY1LDE1Mjc1NjMw
-NjgsLTEyMjc0NTg5NzBdfQ==
+eyJoaXN0b3J5IjpbLTE1OTY2Mjg5MjUsLTEyODExNzE3MjEsMT
+g2MDA2NjE3MSwxODYwMDY2MTcxLDgwMTkxMTQ2NSwxNTI3NTYz
+MDY4LC0xMjI3NDU4OTcwXX0=
 -->
