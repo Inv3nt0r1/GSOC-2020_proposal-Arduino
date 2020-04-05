@@ -275,6 +275,9 @@ The Scheduler library enables the Arduino Due, Zero, and MKR1000 to run multiple
 2. Read contribution guidelines and get familiar with the standards and style-guide. Fix issues and create necessary pull requests to the best of my abilities to better understand and get familiar with contribution standards. 
 3. Understand the electronics characteristics of newer Arduino Boards. It's much easier to work with any board and components once you have enough knowledge about its electronics.
 
+Details:
+- [x] Order Arduino MKRZero Board [Link of 
+
 ### **Community Bonding Period**
 
 1.  Purchase all the required hardware required from the Arduino store.
@@ -472,7 +475,7 @@ This proposal Repo since I will be updating it till community bonding period sta
 
 Side note: I hope whoever is reading this and his/her family members are safe in this coronavirus pandemic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODExNzE3MjEsMTg2MDA2NjE3MSwxOD
-YwMDY2MTcxLDgwMTkxMTQ2NSwxNTI3NTYzMDY4LC0xMjI3NDU4
-OTcwXX0=
+eyJoaXN0b3J5IjpbMTQzNjE5MDM3MCwtMTI4MTE3MTcyMSwxOD
+YwMDY2MTcxLDE4NjAwNjYxNzEsODAxOTExNDY1LDE1Mjc1NjMw
+NjgsLTEyMjc0NTg5NzBdfQ==
 -->
