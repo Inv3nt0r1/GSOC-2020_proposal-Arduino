@@ -289,6 +289,9 @@ Details:
 5. Read datasheets of sensors and boards, learn and understand more about the libraries. Get everything ready to start coding.
 6. Most importantly, Get involved in the community, communicate often, become familiar with everyone and become a part of this great family.
 
+Work done:
+
+
 ### **Phase 1**
 
 List of libraries:
@@ -477,8 +480,8 @@ This proposal Repo since I will be updating it till community bonding period sta
 
 Side note: I hope whoever is reading this and his/her family members are safe in this coronavirus pandemic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODM1NTAwNTEsLTE5OTY1Mjc3NzYsLT
-E1OTY2Mjg5MjUsLTEyODExNzE3MjEsMTg2MDA2NjE3MSwxODYw
-MDY2MTcxLDgwMTkxMTQ2NSwxNTI3NTYzMDY4LC0xMjI3NDU4OT
-cwXX0=
+eyJoaXN0b3J5IjpbMTMyMjk1NTA3MCwtMTk5NjUyNzc3NiwtMT
+U5NjYyODkyNSwtMTI4MTE3MTcyMSwxODYwMDY2MTcxLDE4NjAw
+NjYxNzEsODAxOTExNDY1LDE1Mjc1NjMwNjgsLTEyMjc0NTg5Nz
+BdfQ==
 -->
