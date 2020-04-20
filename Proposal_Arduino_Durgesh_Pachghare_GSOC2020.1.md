@@ -279,7 +279,7 @@ Details:
 - [x] Order original Arduino MKRZero Board. [Link of Product](https://www.rhydolabz.com/arduino-arduino-boards-c-152_123/arduino-mkr-zero-i2s-bus-sd-for-soundmusic-digital-audio-p-2544.html)
 - [ ] Delivery - Awating Delivery. Delivery halted because of Covid-19 lockdown. 
 	- Update: Lockdown Extended till 3 May. Lockdown in the states and cities (including mine) having less or non-increasing number of cases will be lifted in upcoming weeks. 
-- [x] Read following Contribution guides. 
+- [x] Read following Contribution guides:
 	 1. [Development Policy](https://github.com/arduino/Arduino/wiki/Development-Policy) 
 	 2. [Contributing.md](https://github.com/arduino/Arduino/blob/master/CONTRIBUTING.md)
 
@@ -480,9 +480,9 @@ This proposal Repo since I will be updating it till community bonding period sta
 
 Side note: I hope whoever is reading this and his/her family members are safe in this coronavirus pandemic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTExMTg5MzUsLTE1NjY1MjA5MjIsLT
-Y1ODA0MzU5NSwtMTg2NDE1MDY4NCwtMTk5NjUyNzc3NiwtMTU5
-NjYyODkyNSwtMTI4MTE3MTcyMSwxODYwMDY2MTcxLDE4NjAwNj
-YxNzEsODAxOTExNDY1LDE1Mjc1NjMwNjgsLTEyMjc0NTg5NzBd
-fQ==
+eyJoaXN0b3J5IjpbMjEwODc2NzA1MywtMTg1MTExODkzNSwtMT
+U2NjUyMDkyMiwtNjU4MDQzNTk1LC0xODY0MTUwNjg0LC0xOTk2
+NTI3Nzc2LC0xNTk2NjI4OTI1LC0xMjgxMTcxNzIxLDE4NjAwNj
+YxNzEsMTg2MDA2NjE3MSw4MDE5MTE0NjUsMTUyNzU2MzA2OCwt
+MTIyNzQ1ODk3MF19
 -->
