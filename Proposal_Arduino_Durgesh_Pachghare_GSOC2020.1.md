@@ -278,7 +278,7 @@ The Scheduler library enables the Arduino Due, Zero, and MKR1000 to run multiple
 Details:
 - [x] Order original Arduino MKRZero Board. [Link of Product](https://www.rhydolabz.com/arduino-arduino-boards-c-152_123/arduino-mkr-zero-i2s-bus-sd-for-soundmusic-digital-audio-p-2544.html)
 - [ ] Delivery - Awating Delivery. Delivery halted because of Covid-19 lockdown. 
-	- Update: Lockdown Extended till 3 May. Lockdown in the states and cities having less or non-increasing number of cases will be lifted in upcoming weeks. 
+	- Update: Lockdown Extended till 3 May. Lockdown in the states and cities (including mine) having less or non-increasing number of cases will be lifted in upcoming weeks. 
 
 ### **Community Bonding Period**
 
@@ -288,9 +288,6 @@ Details:
 4. Create a testing and documentation plan, templates for testing details and documentation for submission.
 5. Read datasheets of sensors and boards, learn and understand more about the libraries. Get everything ready to start coding.
 6. Most importantly, Get involved in the community, communicate often, become familiar with everyone and become a part of this great family.
-
-Work done:
-
 
 ### **Phase 1**
 
@@ -480,8 +477,8 @@ This proposal Repo since I will be updating it till community bonding period sta
 
 Side note: I hope whoever is reading this and his/her family members are safe in this coronavirus pandemic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjk1NTA3MCwtMTk5NjUyNzc3NiwtMT
-U5NjYyODkyNSwtMTI4MTE3MTcyMSwxODYwMDY2MTcxLDE4NjAw
-NjYxNzEsODAxOTExNDY1LDE1Mjc1NjMwNjgsLTEyMjc0NTg5Nz
-BdfQ==
+eyJoaXN0b3J5IjpbLTE4NjQxNTA2ODQsLTE5OTY1Mjc3NzYsLT
+E1OTY2Mjg5MjUsLTEyODExNzE3MjEsMTg2MDA2NjE3MSwxODYw
+MDY2MTcxLDgwMTkxMTQ2NSwxNTI3NTYzMDY4LC0xMjI3NDU4OT
+cwXX0=
 -->
