@@ -282,6 +282,7 @@ Details:
 - [x] Read following Contribution guides:
 	 1. [Development Policy](https://github.com/arduino/Arduino/wiki/Development-Policy) 
 	 2. [Contributing.md](https://github.com/arduino/Arduino/blob/master/CONTRIBUTING.md)
+	 3. [Library Specification](https://arduino.github.io/arduino-cli/library-specification/)
 
 ### **Community Bonding Period**
 
@@ -480,9 +481,9 @@ This proposal Repo since I will be updating it till community bonding period sta
 
 Side note: I hope whoever is reading this and his/her family members are safe in this coronavirus pandemic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODc2NzA1MywtMTg1MTExODkzNSwtMT
-U2NjUyMDkyMiwtNjU4MDQzNTk1LC0xODY0MTUwNjg0LC0xOTk2
-NTI3Nzc2LC0xNTk2NjI4OTI1LC0xMjgxMTcxNzIxLDE4NjAwNj
-YxNzEsMTg2MDA2NjE3MSw4MDE5MTE0NjUsMTUyNzU2MzA2OCwt
-MTIyNzQ1ODk3MF19
+eyJoaXN0b3J5IjpbLTE4ODI3MjM3MTgsMjEwODc2NzA1MywtMT
+g1MTExODkzNSwtMTU2NjUyMDkyMiwtNjU4MDQzNTk1LC0xODY0
+MTUwNjg0LC0xOTk2NTI3Nzc2LC0xNTk2NjI4OTI1LC0xMjgxMT
+cxNzIxLDE4NjAwNjYxNzEsMTg2MDA2NjE3MSw4MDE5MTE0NjUs
+MTUyNzU2MzA2OCwtMTIyNzQ1ODk3MF19
 -->
