@@ -70,7 +70,8 @@ This library allows an Arduino board to control RC (hobby) servo motors.
   - Sweep.ino - Move servo from 0 to 180 and 180 to 0
 - Can be added:
   - Wiper.ino - Using a servo as a car Wiper, activated by a switch
-  - AutoDoor.ino - Open door (by movExamples showing uservo) when someone comes in front of it (ultrasonic sensor) (SmartDustbin) of some unused functions in examples: read(), attached(), detach(), writeMicroseconds(), etc. 
+  - AutoDoor.ino - Open door (by movExamples showing uservo) when someone comes in front of it (ultrasonic sensor) (SmartDustbin)
+  - Use of some unused functions in examples: read(), attached(), detach(), writeMicroseconds(), etc. 
   - [ Project ] PanTiltIMU - Pan tilt mechanism (For ex. pan-tilt for fpv cam) on the input of Joystick or IMU (LSM9DS1/LSM6DS3)
 
 #### [SD](https://github.com/arduino-libraries/SD)
@@ -481,9 +482,9 @@ This proposal Repo since I will be updating it till community bonding period sta
 
 Side note: I hope whoever is reading this and his/her family members are safe in this coronavirus pandemic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODI3MjM3MTgsMjEwODc2NzA1MywtMT
-g1MTExODkzNSwtMTU2NjUyMDkyMiwtNjU4MDQzNTk1LC0xODY0
-MTUwNjg0LC0xOTk2NTI3Nzc2LC0xNTk2NjI4OTI1LC0xMjgxMT
-cxNzIxLDE4NjAwNjYxNzEsMTg2MDA2NjE3MSw4MDE5MTE0NjUs
-MTUyNzU2MzA2OCwtMTIyNzQ1ODk3MF19
+eyJoaXN0b3J5IjpbMTk0MzUyODY1MiwtMTg4MjcyMzcxOCwyMT
+A4NzY3MDUzLC0xODUxMTE4OTM1LC0xNTY2NTIwOTIyLC02NTgw
+NDM1OTUsLTE4NjQxNTA2ODQsLTE5OTY1Mjc3NzYsLTE1OTY2Mj
+g5MjUsLTEyODExNzE3MjEsMTg2MDA2NjE3MSwxODYwMDY2MTcx
+LDgwMTkxMTQ2NSwxNTI3NTYzMDY4LC0xMjI3NDU4OTcwXX0=
 -->
